@@ -15,3 +15,4 @@ Look at the .py file called 'examples', there you can find some examples of the 
 All the methods are written in the 'methods' files, so for example, for finding roots methods  you will see a rootsMethods.py file, simply import it for your own scripts.
 
 Keep in mind that you must implement your functions to fit the methods, take a look to the objectiveFunctions file for examples.
+
